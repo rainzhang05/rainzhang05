@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rain
-- 👀 I’m interested in software development & web development
-- 🌱 I’m currently learning advanced web developing
-- 💞️ I’m looking forward to finding a co-op position
-- 📫 How to reach me (rainzhang.zty@gmail.com)
-- 😄 Pronouns: He/Him
+- 💻 I’m interested in software development & web development
+- 📱 I’m currently learning advanced web developing
+- ⌨️ I’m looking forward to finding internship opportunities
+- 📫 How to reach me：rainzhang.zty@gmail.com
+- 👨🏻‍💻 Pronouns: He/Him
