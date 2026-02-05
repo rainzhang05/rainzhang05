@@ -106,21 +106,49 @@ I am a Computer Science student with a strong passion for software development, 
 <div align="center">
   <table>
     <tr>
+      <td style="padding:24px; min-width:300px; border-radius:24px; border:1px solid rgba(110,92,245,0.5); background:linear-gradient(145deg, rgba(143,249,208,0.28), rgba(110,92,245,0.28));">
+        <h3 align="center">Authentication &amp; Security Demo Platform</h3>
+        <p>
+          Comprehensive WebAuthn demonstration platform showcasing modern passwordless authentication with Post-Quantum Cryptography support.
+        </p>
+        <p align="center">
+          <a href="https://github.com/FeitianTech/ProductDemo">
+            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+      <td style="padding:24px; min-width:300px; border-radius:24px; border:1px solid rgba(110,92,245,0.5); background:linear-gradient(145deg, rgba(109,193,237,0.28), rgba(177,168,245,0.28));">
+        <h3 align="center">Web Authentication Developer Platform</h3>
+        <p>
+          Full WebAuthn testing platform integrating classical and PQC algorithms via liboqs, built with Python, FIDO2, and Docker.
+        </p>
+        <p align="center">
+          <a href="https://github.com/FeitianTech/postquantum-webauthn-platform">
+            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td style="padding:20px; min-width:260px; border-radius:22px; border:1px solid rgba(110,92,245,0.4); background:linear-gradient(145deg, rgba(143,249,208,0.22), rgba(110,92,245,0.22));">
         <h3 align="center">Travel Advisor Website</h3>
-        <p>React + Tailwind travel planner that blends OpenAI and TripAdvisor APIs for effectively generating itineraries.</p>
+        <p>
+          React + Tailwind travel planner that blends OpenAI and TripAdvisor APIs for effectively generating itineraries.
+        </p>
         <p align="center">
           <a href="https://github.com/f4ncy1zach/travel-advisor">
-            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" alt="Travel Advisor repository" />
+            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
       </td>
       <td style="padding:20px; min-width:260px; border-radius:22px; border:1px solid rgba(110,92,245,0.4); background:linear-gradient(145deg, rgba(109,193,237,0.22), rgba(177,168,245,0.22));">
         <h3 align="center">Personal Portfolio Website</h3>
-        <p>HTML, CSS, and JavaScript portfolio crafted for polished UI/UX interactions and deployed on Vercel for a fast, modern experience.</p>
+        <p>
+          HTML, CSS, and JavaScript portfolio crafted for polished UI/UX interactions and deployed on Vercel for a fast, modern experience.
+        </p>
         <p align="center">
           <a href="https://github.com/rainzhang05/rainzhang05.github.io">
-            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" alt="Personal Portfolio repository" />
+            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
       </td>
