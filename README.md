@@ -53,7 +53,7 @@
 </div>
 
 ## Rain Zhang
-#### Computer Science student at Simon Fraser University
+#### Computer Science Student at Simon Fraser University
 
 <div align="left" style="margin: 18px 0 28px;">
   <a href="https://rainzhang.me/" target="_blank" rel="noopener noreferrer">
