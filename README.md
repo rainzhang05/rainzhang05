@@ -106,24 +106,24 @@ I am a Computer Science student with a strong passion for software development, 
 <div align="center">
   <table>
     <tr>
-      <td style="padding:24px; min-width:300px; border-radius:24px; border:1px solid rgba(110,92,245,0.5); background:linear-gradient(145deg, rgba(143,249,208,0.28), rgba(110,92,245,0.28));">
-        <h3 align="center">Authentication &amp; Security Demo Platform</h3>
+      <td style="padding:24px; min-width:300px; border-radius:24px; border:1px solid rgba(110,92,245,0.5); background:linear-gradient(145deg, rgba(109,193,237,0.28), rgba(177,168,245,0.28));">
+        <h3 align="center">Web Authentication Developer Platform</h3>
         <p>
-          Comprehensive WebAuthn demonstration platform showcasing modern passwordless authentication with Post-Quantum Cryptography support.
+          Full WebAuthn testing platform integrating classical and Post-Quantum Cryptography (PQC) algorithms via liboqs, built with Python, FIDO2, HTML, CSS, JavaScript, and Docker.
         </p>
         <p align="center">
-          <a href="https://github.com/FeitianTech/ProductDemo">
+          <a href="https://github.com/FeitianTech/postquantum-webauthn-platform">
             <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
       </td>
-      <td style="padding:24px; min-width:300px; border-radius:24px; border:1px solid rgba(110,92,245,0.5); background:linear-gradient(145deg, rgba(109,193,237,0.28), rgba(177,168,245,0.28));">
-        <h3 align="center">Web Authentication Developer Platform</h3>
+      <td style="padding:24px; min-width:300px; border-radius:24px; border:1px solid rgba(110,92,245,0.5); background:linear-gradient(145deg, rgba(143,249,208,0.28), rgba(110,92,245,0.28));">
+        <h3 align="center">Software FIDO2 Authenticator</h3>
         <p>
-          Full WebAuthn testing platform integrating classical and PQC algorithms via liboqs, built with Python, FIDO2, and Docker.
+          Software FIDO2 authenticator implementing ML-DSA 44/65/87 and ES256 algorithms with CTAP and UHID, written in Rust and backed by the prebuilt liboqs C library.
         </p>
         <p align="center">
-          <a href="https://github.com/FeitianTech/postquantum-webauthn-platform">
+          <a href="https://github.com/FeitianTech/FidoSoftwareAuthenticator">
             <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
