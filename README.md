@@ -63,10 +63,10 @@
 
 ---
 
-### 🛸 Quick Intro
+### Quick Intro
 I am a Computer Science student with a strong passion for software development, eager to expand my skills and apply my knowledge to real-world projects. 
 
-### 🧠 Skills
+### Skills
 
 <div align="center">
   <table>
@@ -101,7 +101,7 @@ I am a Computer Science student with a strong passion for software development, 
   </table>
 </div>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
   <table>
@@ -156,7 +156,7 @@ I am a Computer Science student with a strong passion for software development, 
   </table>
 </div>
 
-### 📬 Contacts
+### Contacts
 
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
   <a href="https://www.linkedin.com/in/rainzhang05/" target="_blank" rel="noopener noreferrer">
