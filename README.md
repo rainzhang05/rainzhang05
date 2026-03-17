@@ -1,195 +1,63 @@
-<div align="center">
-  <svg width="100%" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="heroGradient" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#8FF9D0">
-          <animate attributeName="stop-color" values="#8FF9D0;#6ABED3;#6DC1ED;#B1A8F5;#6E5CF5;#8FF9D0" dur="16s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="50%" stop-color="#6ABED3">
-          <animate attributeName="stop-color" values="#6ABED3;#6DC1ED;#B1A8F5;#6E5CF5;#8FF9D0;#6ABED3" dur="16s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#6E5CF5">
-          <animate attributeName="stop-color" values="#6E5CF5;#8FF9D0;#6ABED3;#6DC1ED;#B1A8F5;#6E5CF5" dur="16s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-      <linearGradient id="textGradient" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.98">
-          <animate attributeName="stop-opacity" values="0.98;0.75;0.98" dur="5s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#EDE9FE" stop-opacity="0.88">
-          <animate attributeName="stop-opacity" values="0.88;0.55;0.88" dur="5s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-      <radialGradient id="orbGlow" cx="0.5" cy="0.5" r="0.5">
-        <stop offset="0%" stop-color="rgba(255,255,255,0.9)" />
-        <stop offset="100%" stop-color="rgba(255,255,255,0)" />
-      </radialGradient>
-      <filter id="titleGlow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
-        <feMerge>
-          <feMergeNode in="blur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
-    <rect width="900" height="260" rx="32" fill="url(#heroGradient)" />
-    <g opacity="0.35">
-      <circle cx="130" cy="80" r="68" fill="url(#orbGlow)">
-        <animate attributeName="cx" values="120;160;120" dur="12s" repeatCount="indefinite" />
-        <animate attributeName="cy" values="78;95;78" dur="9s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="760" cy="200" r="56" fill="url(#orbGlow)">
-        <animate attributeName="cx" values="760;720;760" dur="10s" repeatCount="indefinite" />
-        <animate attributeName="cy" values="200;170;200" dur="13s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="450" cy="40" r="40" fill="url(#orbGlow)">
-        <animate attributeName="r" values="30;45;30" dur="11s" repeatCount="indefinite" />
-      </circle>
-    </g>
-    <path d="M40 210 C140 180, 260 220, 360 190 C460 160, 580 220, 680 190 C780 160, 860 210, 900 180" stroke="rgba(255,255,255,0.45)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6 10">
-      <animate attributeName="stroke-dashoffset" values="0;120" dur="12s" repeatCount="indefinite" />
-    </path>
-  </svg>
-</div>
+# Rain Zhang
 
-## Rain Zhang
-#### Computer Science Student at Simon Fraser University
+Computer Science Student at Simon Fraser University
 
-<div align="left" style="margin: 18px 0 28px;">
-  <a href="https://rainzhang.me/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio%20Website-FFC857?style=for-the-badge&logo=vercel&logoColor=111827" alt="Portfolio Website" style="border-radius:14px;" />
-  </a>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-rainzhang.me-FFC857?style=for-the-badge&logo=vercel&logoColor=111827)](https://rainzhang.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rainzhang05-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rainzhang05/)
+[![GitHub](https://img.shields.io/badge/GitHub-rainzhang05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rainzhang05)
+[![Email](https://img.shields.io/badge/Email-rainzhang.zty%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rainzhang.zty@gmail.com)
 
 ---
 
-### Quick Intro
-I am a Computer Science student with a strong passion for software development, eager to expand my skills and apply my knowledge to real-world projects. 
+## About
+I am a Computer Science student passionate about software development, security, and practical engineering. I enjoy building products that combine clean user experience with strong technical foundations.
 
-### Skills
+## Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding:16px; min-width:230px; border-radius:18px; border:1px solid rgba(110,92,245,0.35); background:linear-gradient(140deg, rgba(143,249,208,0.18), rgba(177,168,245,0.18));">
-        <h4 align="center">Programming Languages</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=python,c,cpp,java&perline=4&theme=light&background=ffffff" height="42" alt="Python, C, C++, Java icons" />
-        </p>
-      </td>
-      <td style="padding:16px; min-width:230px; border-radius:18px; border:1px solid rgba(110,92,245,0.35); background:linear-gradient(140deg, rgba(177,168,245,0.18), rgba(110,92,245,0.18));">
-        <h4 align="center">Web Development</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4&theme=light&background=ffffff" height="42" alt="HTML, CSS, JavaScript, React icons" />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:16px; min-width:230px; border-radius:18px; border:1px solid rgba(110,92,245,0.35); background:#FFFFFF;">
-        <h4 align="center">Operating Systems</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=windows,apple,linux&perline=3&theme=light&background=ffffff" height="42" alt="Windows, macOS, Linux icons" />
-        </p>
-      </td>
-      <td style="padding:16px; min-width:230px; border-radius:18px; border:1px solid rgba(110,92,245,0.35); background:#FFFFFF;">
-        <h4 align="center">Developer Tools</h4>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=vscode,github,git,idea,clion,pycharm&perline=6&theme=light&background=ffffff" height="42" alt="VS Code, GitHub, Git, IntelliJ IDEA, CLion, PyCharm icons" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+### Programming Languages
+| Skill | Skill | Skill |
+| --- | --- | --- |
+| <img src="icons/python-icon.png" alt="Python" width="18" /> Python | <img src="icons/c-icon.png" alt="C" width="18" /> C | <img src="icons/cpp-icon.png" alt="C++" width="18" /> C++ |
+| <img src="icons/java-icon.png" alt="Java" width="18" /> Java | <img src="icons/rust-icon.png" alt="Rust" width="18" /> Rust | |
 
-### Featured Projects
+### Web Development
+| Skill | Skill | Skill |
+| --- | --- | --- |
+| <img src="icons/html-icon.png" alt="HTML" width="18" /> HTML | <img src="icons/css-icon.png" alt="CSS" width="18" /> CSS | <img src="icons/js-icon.png" alt="JavaScript" width="18" /> JavaScript |
+| <img src="icons/typescript-icon.png" alt="TypeScript" width="18" /> TypeScript | <img src="icons/react.icon.png" alt="React" width="18" /> React.js | <img src="icons/tailwind-icon.png" alt="Tailwind CSS" width="18" /> Tailwind CSS |
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding:24px; min-width:300px; border-radius:24px; border:1px solid rgba(110,92,245,0.5); background:linear-gradient(145deg, rgba(109,193,237,0.28), rgba(177,168,245,0.28));">
-        <h3 align="center">Web Authentication Developer Platform</h3>
-        <p>
-          Full WebAuthn testing platform integrating classical and Post-Quantum Cryptography (PQC) algorithms via liboqs, built with Python, FIDO2, HTML, CSS, JavaScript, and Docker.
-        </p>
-        <p align="center">
-          <a href="https://github.com/FeitianTech/postquantum-webauthn-platform">
-            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-      <td style="padding:24px; min-width:300px; border-radius:24px; border:1px solid rgba(110,92,245,0.5); background:linear-gradient(145deg, rgba(143,249,208,0.28), rgba(110,92,245,0.28));">
-        <h3 align="center">Software FIDO2 Authenticator</h3>
-        <p>
-          Software FIDO2 authenticator implementing ML-DSA 44/65/87 and ES256 algorithms with CTAP and UHID, written in Rust and backed by the prebuilt liboqs C library.
-        </p>
-        <p align="center">
-          <a href="https://github.com/FeitianTech/FidoSoftwareAuthenticator">
-            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:20px; min-width:260px; border-radius:22px; border:1px solid rgba(110,92,245,0.4); background:linear-gradient(145deg, rgba(143,249,208,0.22), rgba(110,92,245,0.22));">
-        <h3 align="center">Travel Advisor Website</h3>
-        <p>
-          React + Tailwind travel planner that blends OpenAI and TripAdvisor APIs for effectively generating itineraries.
-        </p>
-        <p align="center">
-          <a href="https://github.com/f4ncy1zach/travel-advisor">
-            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-      <td style="padding:20px; min-width:260px; border-radius:22px; border:1px solid rgba(110,92,245,0.4); background:linear-gradient(145deg, rgba(109,193,237,0.22), rgba(177,168,245,0.22));">
-        <h3 align="center">Personal Portfolio Website</h3>
-        <p>
-          HTML, CSS, and JavaScript portfolio crafted for polished UI/UX interactions and deployed on Vercel for a fast, modern experience.
-        </p>
-        <p align="center">
-          <a href="https://github.com/rainzhang05/rainzhang05.github.io">
-            <img src="https://img.shields.io/badge/Repository-111111?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+### Operating Systems
+| Skill | Skill | Skill |
+| --- | --- | --- |
+| <img src="icons/windows-icon.png" alt="Windows" width="18" /> Windows | <img src="icons/mac-icon.png" alt="macOS" width="18" /> macOS | <img src="icons/linux-icon.png" alt="Linux" width="18" /> Linux |
 
-### Contacts
+### Software & Developer Tools
+| Skill | Skill | Skill |
+| --- | --- | --- |
+| <img src="icons/vscode-icon.png" alt="VS Code" width="18" /> VS Code | <img src="icons/jetbrains-icon.png" alt="JetBrains IDEs" width="18" /> JetBrains IDEs | <img src="icons/github-icon.png" alt="GitHub" width="18" /> GitHub |
+| <img src="icons/git-icon.png" alt="Git" width="18" /> Git | <img src="icons/google-cloud-icon.png" alt="Google Cloud" width="18" /> Google Cloud | <img src="icons/docker-icon.png" alt="Docker" width="18" /> Docker |
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
-  <a href="https://www.linkedin.com/in/rainzhang05/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius:14px;" />
-  </a>
-  <a href="https://github.com/rainzhang05" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius:14px;" />
-  </a>
-  <a href="mailto:rainzhang.zty@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rainzhang.zty%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius:14px;" />
-  </a>
-  <a href="https://discord.com/users/rainzhang05/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-rainzhang05-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius:14px;" />
-  </a>
-  <a href="tel:+12363337191">
-    <img src="https://img.shields.io/badge/Phone-%2B1%20(236)%20333--7191-6ABED3?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" style="border-radius:14px;" />
-  </a>
-</div>
+## Featured Projects
 
-<div align="center">
-  <svg width="100%" height="70" viewBox="0 0 900 70" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="footerGradient" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stop-color="#8FF9D0" />
-        <stop offset="50%" stop-color="#6DC1ED" />
-        <stop offset="100%" stop-color="#6E5CF5" />
-      </linearGradient>
-    </defs>
-    <path d="M0 50 Q150 10 300 40 T600 35 T900 45 V70 H0 Z" fill="url(#footerGradient)">
-      <animate attributeName="d" dur="10s" repeatCount="indefinite"
-        values="M0 50 Q150 10 300 40 T600 35 T900 45 V70 H0 Z;
-                M0 45 Q150 20 300 45 T600 30 T900 40 V70 H0 Z;
-                M0 50 Q150 10 300 40 T600 35 T900 45 V70 H0 Z" />
-    </path>
-  </svg>
-</div>
+### 1) Web Authentication Developer Platform
+Full WebAuthn testing platform integrating classical and post-quantum cryptography (PQC) via `liboqs`, built with Python, FIDO2, HTML, CSS, JavaScript, and Docker.  
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeitianTech/postquantum-webauthn-platform)
+
+### 2) Software FIDO2 Authenticator
+Software FIDO2 authenticator implementing ML-DSA 44/65/87 and ES256 with CTAP and UHID, written in Rust and backed by prebuilt `liboqs`.  
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FeitianTech/FidoSoftwareAuthenticator)
+
+### 3) Travel Advisor Website
+React + Tailwind travel planner that blends OpenAI and TripAdvisor APIs to generate practical itineraries.  
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f4ncy1zach/travel-advisor)
+
+### 4) Personal Portfolio Website
+Portfolio website built with HTML, CSS, and JavaScript with polished UI interactions and deployment on Vercel.  
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rainzhang05/rainzhang05.github.io)
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/rainzhang05/
+- GitHub: https://github.com/rainzhang05
+- Email: rainzhang.zty@gmail.com
+- Discord: rainzhang05
+- Phone: +1 (236) 333-7191
