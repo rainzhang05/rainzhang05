@@ -15,27 +15,32 @@ I am a Computer Science student passionate about software development, security,
 ## Tech Stack
 
 ### Programming Languages
-| Skill | Skill | Skill |
-| --- | --- | --- |
-| <img src="icons/python-icon.png" alt="Python" width="18" /> Python | <img src="icons/c-icon.png" alt="C" width="18" /> C | <img src="icons/cpp-icon.png" alt="C++" width="18" /> C++ |
-| <img src="icons/java-icon.png" alt="Java" width="18" /> Java | <img src="icons/rust-icon.png" alt="Rust" width="18" /> Rust | |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 ### Web Development
-| Skill | Skill | Skill |
-| --- | --- | --- |
-| <img src="icons/html-icon.png" alt="HTML" width="18" /> HTML | <img src="icons/css-icon.png" alt="CSS" width="18" /> CSS | <img src="icons/js-icon.png" alt="JavaScript" width="18" /> JavaScript |
-| <img src="icons/typescript-icon.png" alt="TypeScript" width="18" /> TypeScript | <img src="icons/react.icon.png" alt="React" width="18" /> React.js | <img src="icons/tailwind-icon.png" alt="Tailwind CSS" width="18" /> Tailwind CSS |
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Operating Systems
-| Skill | Skill | Skill |
-| --- | --- | --- |
-| <img src="icons/windows-icon.png" alt="Windows" width="18" /> Windows | <img src="icons/mac-icon.png" alt="macOS" width="18" /> macOS | <img src="icons/linux-icon.png" alt="Linux" width="18" /> Linux |
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Software & Developer Tools
-| Skill | Skill | Skill |
-| --- | --- | --- |
-| <img src="icons/vscode-icon.png" alt="VS Code" width="18" /> VS Code | <img src="icons/jetbrains-icon.png" alt="JetBrains IDEs" width="18" /> JetBrains IDEs | <img src="icons/github-icon.png" alt="GitHub" width="18" /> GitHub |
-| <img src="icons/git-icon.png" alt="Git" width="18" /> Git | <img src="icons/google-cloud-icon.png" alt="Google Cloud" width="18" /> Google Cloud | <img src="icons/docker-icon.png" alt="Docker" width="18" /> Docker |
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-000000?style=flat-square&logo=jetbrains&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Featured Projects
 
