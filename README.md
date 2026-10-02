@@ -8,11 +8,11 @@ Currently building property-management tools and maintaining post-quantum WebAut
 
 ## Projects
 
-- **[WebAuthn Developer Platform](https://github.com/FeitianTech/postquantum-webauthn-platform)** · [Live](https://webauthnlab.tech/)<br>
-  Test security keys, inspect WebAuthn responses and explore post-quantum ML-DSA credentials. Built with Python and Flask.
-
 - **[FIDO2 Software Authenticator](https://github.com/FeitianTech/FidoSoftwareAuthenticator)**<br>
   A virtual USB security key for Linux, written in Rust. Lets browsers test classical and post-quantum credentials without hardware.
+
+- **[WebAuthn Developer Platform](https://github.com/FeitianTech/postquantum-webauthn-platform)** · [Live](https://webauthnlab.tech/)<br>
+  Test security keys, inspect WebAuthn responses and explore post-quantum ML-DSA credentials. Built with Python and Flask.
 
 - **[MNT Realty Platform](https://mntrealty.vercel.app/)**<br>
   A public website, resident portal and staff console in one Next.js application. Deployed; cloud data and backend workflows are next. Private source.
